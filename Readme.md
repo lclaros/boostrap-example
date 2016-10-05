@@ -9,4 +9,4 @@ This project will help us to design a simple web page using html and boostrap.
 - Logo 
  
 ##ACCESS LINK
-https://htmlpreview.github.io/?https://raw.githubusercontent.com/lclar22/boostrap-example/master/events.html
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/lclaros/boostrap-example/master/index.html
